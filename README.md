@@ -4,10 +4,10 @@
 ### 🌱 I’m currently learning Software Development & Machine Learning
 ### 🔭 I’m currently working on making a Chat App
 ### 📫 How to reach me: 💬Email: abhinavkrishna26chemistry@gmail.com
-####################### ✨Phone:  +918002463988                
-####################### ✨LinkedIn: https://www.linkedin.com/in/abhinav-krishna-8a2a511a6/
-####################### ⭐⭐CodeChef: https://www.codechef.com/users/clown26
-####################### 🌟🌟🌟Codeforces: https://codeforces.com/profile/MOONSHINE___26
+✨Phone:  +918002463988                
+✨LinkedIn: https://www.linkedin.com/in/abhinav-krishna-8a2a511a6/
+⭐⭐CodeChef: https://www.codechef.com/users/clown26
+🌟🌟🌟Codeforces: https://codeforces.com/profile/MOONSHINE___26
 
 ![](https://komarev.com/ghpvc/?username=AbhinavKrishna26&color=lightgreen&label=PROFILE+VIEWS)
    
