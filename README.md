@@ -9,7 +9,7 @@
 ⭐⭐CodeChef: https://www.codechef.com/users/clown26
 🌟🌟🌟Codeforces: https://codeforces.com/profile/MOONSHINE___26
 
-![](https://komarev.com/ghpvc/?username=AbhinavKrishna26&color=lightgreen&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=AbhinavKrishna26&color=brightgreen&label=PROFILE+VIEWS)
    
 
 <!--
