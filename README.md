@@ -2,7 +2,7 @@
 ### Welcome to my GitHub👋
 
 ### 🌱 I’m currently learning Software Development & Machine Learning
-### 🔭 I’m currently working on making a Chat App
+### 🔭 I’m currently working on making a Face Recognition App(See https://github.com/AbhinavKrishna26/Face-Recognition)
 ### 📫 How to reach me: 💬Email: abhinavkrishna26chemistry@gmail.com
 ### ✨Phone:  +918002463988                
 ### ✨LinkedIn: https://www.linkedin.com/in/abhinav-krishna-8a2a511a6/
