@@ -8,7 +8,7 @@
 ### ✨LinkedIn: https://www.linkedin.com/in/abhinav-krishna-8a2a511a6/
 ### ⭐⭐CodeChef: https://www.codechef.com/users/clown26
 ### 🌟🌟🌟Codeforces: https://codeforces.com/profile/MOONSHINE___26
-
+### ⚡⚡⚡StopStalk: https://www.stopstalk.com/user/profile/M00NSHINE
 ![](https://komarev.com/ghpvc/?username=AbhinavKrishna26&color=brightgreen&label=PROFILE+VIEWS)
    
 
