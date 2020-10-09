@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Welcome to my GitHub👋<br> <img src = "https://forthebadge.com/images/badges/built-with-love.svg">
+### Welcome to my GitHub👋
 
 ### 🌱 I’m currently learning Software Development & Machine Learning
 ### 🔭 I’m currently working on making a Face Recognition App(See https://github.com/AbhinavKrishna26/Face-Recognition)
@@ -11,7 +11,8 @@
 ### ⚡⚡⚡StopStalk: https://www.stopstalk.com/user/profile/M00NSHINE
 ![](https://komarev.com/ghpvc/?username=AbhinavKrishna26&color=brightgreen&label=PROFILE+VIEWS)  ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
-   
+  <br> <img src = "https://forthebadge.com/images/badges/built-with-love.svg">
+ 
 
 <!--
 **AbhinavKrishna26/AbhinavKrishna26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
