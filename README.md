@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Welcome to my GitHub👋<img src = "https://forthebadge.com/images/badges/built-with-love.svg">
+### Welcome to my GitHub👋<br> <img src = "https://forthebadge.com/images/badges/built-with-love.svg">
 
 ### 🌱 I’m currently learning Software Development & Machine Learning
 ### 🔭 I’m currently working on making a Face Recognition App(See https://github.com/AbhinavKrishna26/Face-Recognition)
