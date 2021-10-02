@@ -20,6 +20,9 @@
 </div>
 
 
+<p align="center">
+    <a href="https://github.com/AbhinavKrishna26"><img src= "https://github.com/Ayush7614/Ayush7614/blob/output/github-contribution-grid-snake.gif"/></a> 
+</p>
 
 ### 📫 How to reach me: 💬Email: abhinavkrishna26chemistry@gmail.com
 ### ✨Phone:  +918002463988                
