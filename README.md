@@ -7,6 +7,11 @@
 
 
 
+
+<p align="center">
+    <a href="https://github.com/AbhinavKrishna26"><img src= "https://github.com/Ayush7614/Ayush7614/blob/output/github-contribution-grid-snake.gif"/></a> 
+</p>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbhinavKrishna26" alt="AbhinavKrishna26"/></a> </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhinavKrishna26&show_icons=true&locale=en&layout=compact" alt="AbhinavKrishna26" /></p>
@@ -19,10 +24,6 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavKrishna26&" alt="AbhinavKrishna26" /></p>
 </div>
 
-
-<p align="center">
-    <a href="https://github.com/AbhinavKrishna26"><img src= "https://github.com/Ayush7614/Ayush7614/blob/output/github-contribution-grid-snake.gif"/></a> 
-</p>
 
 ### 📫 How to reach me: 💬Email: abhinavkrishna26chemistry@gmail.com
 ### ✨Phone:  +918002463988                
