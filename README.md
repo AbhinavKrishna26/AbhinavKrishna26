@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Welcome to my GitHub👋
 
-### 🌱 I’m currently learning Data Structures and Algorithms.
+### 🌱 I’m currently working & learning with Aspen & DWSIM.
 ### 🔭 My latest Project was a Blockchain Supplychain DAPP(https://github.com/AbhinavKrishna26/eth-supplychain-dapp)
 
 
